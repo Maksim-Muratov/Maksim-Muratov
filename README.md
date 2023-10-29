@@ -1,16 +1,24 @@
-### Hi there 👋
+## Backend Python Developer
 
-<!--
-**Maksim-Muratov/Maksim-Muratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Стек:
+Python 3, Django, Git, Docker, SQL, SQLite, PostgreSQL, REST API, ООП, Unittest, Pytest, Nginx, Gunicorn, Linux
 
-Here are some ideas to get you started:
+## Проекты
+(Все репозитории указанных проектов закреплены ниже)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Django приложение Yatube**
+- Полноценная авторизация
+- Чтение и запись в БД
+- Генерация индивидуальных страниц пользователей
+- Пагинация, кэширование, аутентификация по JWT-токену
+- REST API и документация к нему
+- Покрыл тестами
+
+**CI/CD для Kittygram**
+- Использовал GitHub Actions
+- Запустил на сервере Яндекс.Облако (Ubuntu)
+- Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
+
+**REST API для YaMDb**
+- Командная разработка
+- Я реализовал всё, что связано с отзывами, комментариями и рейтингом
