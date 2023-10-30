@@ -1,10 +1,9 @@
 ## Backend Python Developer
 
 ### Стек:
-Python 3, Django, Git, Docker, SQL, SQLite, PostgreSQL, REST API, ООП, Unittest, Pytest, Nginx, Gunicorn, Linux
+Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, Linux, ООП, REST API, Unittest, Pytest, Nginx, Gunicorn
 
 ## Проекты
-(Все репозитории указанных проектов закреплены ниже)
 
 **Django приложение Yatube**
 - Полноценная авторизация
