@@ -16,10 +16,10 @@ Python 3, Django, Git, Docker, SQL, SQLite, PostgreSQL, REST API, ООП, Unitte
 **REST API для Yatube**
 - Документация прилагается
 
+**Командная разработка REST API для YaMDb**
+- Я реализовал всё, что связано с отзывами, комментариями и рейтингом
+
 **CI/CD для Kittygram**
 - Использовал GitHub Actions
 - Запустил на сервере Яндекс.Облако (Ubuntu)
 - Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
-
-**Командная разработка REST API для YaMDb**
-- Я реализовал всё, что связано с отзывами, комментариями и рейтингом
