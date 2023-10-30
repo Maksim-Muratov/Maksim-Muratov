@@ -19,6 +19,5 @@ Python 3, Django, Git, Docker, SQL, SQLite, PostgreSQL, REST API, ООП, Unitte
 - Запустил на сервере Яндекс.Облако (Ubuntu)
 - Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
 
-**REST API для YaMDb**
-- Командная разработка
+**Командная разработка REST API для YaMDb**
 - Я реализовал всё, что связано с отзывами, комментариями и рейтингом
