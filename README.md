@@ -11,8 +11,10 @@ Python 3, Django, Git, Docker, SQL, SQLite, PostgreSQL, REST API, ООП, Unitte
 - Чтение и запись в БД
 - Генерация индивидуальных страниц пользователей
 - Пагинация, кэширование, аутентификация по JWT-токену
-- REST API и документация к нему
 - Покрыл тестами
+
+**REST API для Yatube**
+- Документация прилагается
 
 **CI/CD для Kittygram**
 - Использовал GitHub Actions
