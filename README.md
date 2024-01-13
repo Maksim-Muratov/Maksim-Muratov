@@ -7,7 +7,8 @@ Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, ООП, REST API, Linux, U
 
 **Django приложение Foodgram**
 - Чтение и запись в БД PostgreSQL
-- Полноценная авторизация и утентификация по JWT-токену
+- Полноценная авторизация
+- Аутентификация по JWT-токену
 - Реализовал REST API
 - Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
 - Реализовал CI/CD
