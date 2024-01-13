@@ -6,14 +6,13 @@ Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, ООП, REST API, Linux, U
 ## Проекты
 
 **Django приложение Foodgram**
-- БД PostgreSQL
-- Полноценная авторизация
-- Аутентификация по JWT-токену
+- Написал бэкенд
+- Подключил БД PostgreSQL
+- Сделал полноценную авторизацию с помощью Joser и аутентификацию по JWT-токену
 - Реализовал REST API
 - Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
-- Настроил CI/CD
-- Использовал GitHub Actions
-- Запустил на сервере Яндекс.Облако (Ubuntu)
+- Настроил CI/CD, использовал GitHub Actions
+- Запустил проект на сервере Яндекс.Облако (Ubuntu)
 
 **Django приложение Yatube**
 - Полноценная авторизация
