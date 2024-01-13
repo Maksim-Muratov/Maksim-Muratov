@@ -6,12 +6,12 @@ Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, ООП, REST API, Linux, U
 ## Проекты
 
 **Django приложение Foodgram**
-- Чтение и запись в БД PostgreSQL
+- БД PostgreSQL
 - Полноценная авторизация
 - Аутентификация по JWT-токену
 - Реализовал REST API
 - Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
-- Реализовал CI/CD
+- Настроил CI/CD
 - Использовал GitHub Actions
 - Запустил на сервере Яндекс.Облако (Ubuntu)
 
