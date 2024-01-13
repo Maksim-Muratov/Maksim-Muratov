@@ -1,9 +1,18 @@
 ## Backend Python Developer
 
 ### Стек:
-Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, Linux, ООП, REST API, Unittest, Pytest, Nginx, Gunicorn
+Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, ООП, REST API, Linux, Unittest, Pytest, Nginx, Gunicorn
 
 ## Проекты
+
+**Django приложение Foodgram**
+- Чтение и запись в БД PostgreSQL
+- Полноценная авторизация и утентификация по JWT-токену
+- Реализовал REST API
+- Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
+- Реализовал CI/CD
+- Использовал GitHub Actions
+- Запустил на сервере Яндекс.Облако (Ubuntu)
 
 **Django приложение Yatube**
 - Полноценная авторизация
@@ -19,6 +28,6 @@ Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, Linux, ООП, REST API, U
 - Я реализовал всё, что связано с отзывами, комментариями и рейтингом
 
 **CI/CD для Kittygram**
+- Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
 - Использовал GitHub Actions
 - Запустил на сервере Яндекс.Облако (Ubuntu)
-- Упаковал в 3 Docker контейнера: Nginx, PostgreSQL и Django + Gunicorn
