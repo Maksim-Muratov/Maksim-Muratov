@@ -1,4 +1,5 @@
 ## Backend Python Developer
+muratoff.max@yandex.ru
 
 ### Стек:
 Python, Django, SQL, SQLite, PostgreSQL, Docker, Git, ООП, REST API, Linux, Unittest, Pytest, Nginx, Gunicorn
